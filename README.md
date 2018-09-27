@@ -1,5 +1,5 @@
 
-# 🖼 Floyd Steinberg Image Dithering
+# Floyd Steinberg Image Dithering
 
 [![N|Solid](https://user-images.githubusercontent.com/40122948/46173008-c1b81e80-c2ad-11e8-9fb6-fa435e114354.png)](https://py.processing.org/)
 
