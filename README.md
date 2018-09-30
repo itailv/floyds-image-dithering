@@ -1,12 +1,12 @@
 
 # Floyd Steinberg Image Dithering
 
-[![N|Solid](https://user-images.githubusercontent.com/40122948/46173008-c1b81e80-c2ad-11e8-9fb6-fa435e114354.png)](https://py.processing.org/)
+![](https://user-images.githubusercontent.com/40122948/46173008-c1b81e80-c2ad-11e8-9fb6-fa435e114354.png)
 
 Floyd Steinberg's image dithering algorithm written with python and Processing
 
 ### Example
-(wip)
+![](https://img00.deviantart.net/2b92/i/2018/273/1/0/image_dithering_by_itailv-dco6emp.png)
 
 ### How it works
 The algorithm achieves dithering using error diffusion, meaning it pushes (adds) the residual quantization error of a pixel onto its neighboring pixels, to be dealt with later.
