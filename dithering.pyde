@@ -1,8 +1,7 @@
-
 def setup():
     global img
-    size(512,640)
-    img = loadImage("unicorn.jpg")
+    size(320,320)
+    img = loadImage("greek-face-undithered-bw.png")
     
 def draw():
     img.loadPixels()
